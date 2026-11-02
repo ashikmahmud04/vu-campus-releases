@@ -1,1 +1,7 @@
-
+{
+  "latest_version": "1.0.0",
+  "minimum_required_version": "1.0.0",
+  "download_url": "https://drive.google.com/uc?export=download&id=PLACEHOLDER",
+  "update_message": "A new version of VU Campus is available.",
+  "update_enabled": false
+}
